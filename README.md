@@ -1,5 +1,9 @@
-<center><h2>our-budget</h2>
-a website to manage money of my me and my roommates</center>
+
+<div align = "center">
+<h2>our-budget</h2>
+a website to manage money of my me and my roommates
+</div>
+
 <br>
 <div align = "center">
 <a href="">
@@ -7,4 +11,7 @@ a website to manage money of my me and my roommates</center>
 </a>
 </div>
 
-<center>work in progress...</center>
+<div align = "center">
+work in progress...
+</div>
+
