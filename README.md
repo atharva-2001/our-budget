@@ -1,7 +1,7 @@
 
 <div align = "center">
 <h2>our-budget</h2>
-a website to manage money of my me and my roommates
+a website to manage money of me and my roommates
 </div>
 
 <br>
