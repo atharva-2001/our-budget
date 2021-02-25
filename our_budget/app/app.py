@@ -8,6 +8,8 @@ import dash_gif_component as Gif
 import requests
 import dash_bootstrap_components as dbc
 
+from .config import username, password
+
 external_stylesheets = [
     "https://codepen.io/chriddyp/pen/bWLwgP.css",
     dbc.themes.BOOTSTRAP,
