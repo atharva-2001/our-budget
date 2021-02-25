@@ -1,5 +1,6 @@
 import flask
 import dash
+import dash_auth
 import dash_core_components as dcc
 from dash.dependencies import Input, State, Output
 import dash_html_components as html
@@ -23,9 +24,8 @@ app = dash.Dash(
 
 server = app.server
 
-app.layout = html.Div([
+app.layout = html.Div([])
 
-])
 
 def run(host="127.0.0.1", debug=True):
     app.run_server(debug=debug, host=host, port=3004)
@@ -33,6 +33,3 @@ def run(host="127.0.0.1", debug=True):
 
 if __name__ == "__main__":
     run()
-
-
-    
